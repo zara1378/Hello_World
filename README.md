@@ -1,2 +1,3 @@
 # Hello_World
-just a new repository
+Hi everyone;
+I'm a computer science student. I'm interested in AI and coding with Python :)
